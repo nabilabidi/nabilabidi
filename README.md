@@ -2,7 +2,6 @@
 
 👦 My name is **Nabil Abidi**.<br>
 📚 I'm a student who majored in Computer Science at IPB University<br>
-🌱 I’m currently learning Android Development in a program called Bangkit<br>
 <br>
 Thank you for visiting my profile and have a great day!
 
